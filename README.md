@@ -25,10 +25,8 @@
 
 Таблица words
  lvl | text_en |  text_ru
- 
 -----+---------+-----------
 
 Таблица users
   chat_id  | name | timezone | lvl | settings | last_use
-  
 -----------+------+----------+-----+----------+----------
