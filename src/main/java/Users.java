@@ -1,6 +1,6 @@
 import java.util.HashMap;
 
-public class Users {// Ты думал сдесь что-то будет!!!
+public class Users {// Ты думал здесь что-то будет!!! Например гетеры и сетеры???
 
     public static HashMap<Long, Users> currentNewUsers =new HashMap<>();
 
